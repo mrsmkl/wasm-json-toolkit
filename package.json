@@ -1,5 +1,5 @@
 {
-  "name": "wasm-json-toolkit",
+  "name": "wasm-json-toolkit-tb",
   "version": "0.2.6",
   "description": "this convertes wasm binaries to json and json to wasm binaries",
   "main": "index.js",
